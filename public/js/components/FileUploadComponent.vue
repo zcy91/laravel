@@ -13,7 +13,7 @@
 
 <script>
     export default {
-        name: "FileUploadComponent",
+        name: "fileupload-component",
         methods: {
             uploadFile() {
                 let formData = new FormData();
